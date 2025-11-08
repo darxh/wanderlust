@@ -45,7 +45,7 @@ This project is hosted on **Render**. All environment variables (MongoDB, Cloudi
 ## Author
 
 **Darshan**  
-GitHub: [@Darsh-Y](https://github.com/Darsh-Y)  
+GitHub: [@Darsh-Y](https://github.com/darxh)  
 Live Demo: [https://wanderlust-ljm7.onrender.com](https://wanderlust-ljm7.onrender.com)
 
 ---
