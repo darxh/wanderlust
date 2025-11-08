@@ -4,6 +4,7 @@
 
 **Live Demo**: [https://wanderlust-ljm7.onrender.com](https://wanderlust-ljm7.onrender.com)
 
+![Portfolio Preview](https://i.postimg.cc/tTZWGqs1/Screenshot-2025-11-08-115131.png)
 ---
 
 ## Features
